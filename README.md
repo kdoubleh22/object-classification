@@ -9,7 +9,7 @@
 
 ## 0. 요약
 
-![Image](https://github.com/user-attachments/assets/7da65b98-5b3d-41c7-aaa1-48f952808de4)
+![Image](https://github.com/user-attachments/assets/9bbad566-6691-4664-845d-cc18ca164fbc)
 
 AI를 활용한 영어학습 앱 프로젝트 중 사물 분류 API 부분입니다. OpenAI CLIP 모델 활용했습니다.
 
@@ -31,7 +31,7 @@ docker run -p 80:80 name
 
 ## 2. API 예시
 
-![Image](https://github.com/user-attachments/assets/e08c4d30-207d-4696-b2d5-a826e8b3a732)
+![Image](https://github.com/user-attachments/assets/6e7e397d-b7b2-428b-ac6d-070ee860827c)
 
 ## 3. 주요 코드 설명
 
@@ -91,7 +91,7 @@ print(f"{labels[index]:>15s} : {100 * value.item():.2f}%")
 
 결과를 출력합니다.
 
-![Image](https://github.com/user-attachments/assets/b6a391af-536c-4bc1-952c-4d109448e87a)
+![Image](https://github.com/user-attachments/assets/a8d4c589-3fa7-403d-9081-bdbfc4d9f654)
 
 ## 4. 레퍼런스
 
