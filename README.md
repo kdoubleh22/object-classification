@@ -35,7 +35,7 @@ docker run -p 80:80 name
 
 ## 3. 주요 코드 설명
 
-### 3-1. [main.py](http://main.py) [1]
+### 3-1. main.py [1]
 
 ```python
 model, preprocess = clip.load("ViT-B/32", device=device)
